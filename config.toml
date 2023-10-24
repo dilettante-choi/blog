@@ -6,7 +6,6 @@ build_search_index = true
 generate_feed = true
 minify_html = true
 
-
 taxonomies = [
     { name = "tags", feed = true }
 ]
